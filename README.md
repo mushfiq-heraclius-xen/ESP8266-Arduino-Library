@@ -8,7 +8,7 @@ AT+CIOBAUD=9600 before connecting it to Arduino UNO Software Serial pin2(rx of a
 here is a link for sample view of ESP8266 i used: http://www.amazon.com/Addicore-ESP8266-Tranceiver-Antistatic-Compatible/dp/B00PA3UQNI
 for your convenience! 
 
-feel free to contact or ask me question on my facebook profile! i'm active all the time you want! 
+feel free to contact or ask me questions on my facebook profile! i'm active all the time you want! 
 thanks 
 
 my FB id link: www.facebook.com/Mushfiq.Martinie.Xen 
