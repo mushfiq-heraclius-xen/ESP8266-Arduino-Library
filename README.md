@@ -13,6 +13,6 @@ thanks
 
 my FB id link: www.facebook.com/Mushfiq.Martinie.Xen 
 
-surly i will upload videos soon on my youtube channel too!
+surly i will upload videos on my youtube channel soon! so subscribe and stay tuned! 
 my youtube channel : https://www.youtube.com/channel/UCIXaoIEG7Wwq-JB9Ignfihg
 
