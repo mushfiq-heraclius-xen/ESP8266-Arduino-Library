@@ -1,5 +1,5 @@
 # ESP8266-Arduino-Library
-!!!!the easiest Arduino Library ever!!!! 
+!!!!THE MOST EASIEST AND SIMPLE TO USE ARDUINO LIBRARY EVER!!!! 
 
 
 
